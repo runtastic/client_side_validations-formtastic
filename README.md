@@ -1,3 +1,7 @@
+## Why Runtastic Needs This ##
+We need this fork to loosen dependency restrictions in order to be able to update
+`Formtastic` and `ClientSideValidations`
+
 # This library is no longer being maintained. Use at your own risk #
 
 # ClientSideValidations-Formtastic #
